@@ -102,42 +102,80 @@ https://user-images.githubusercontent.com/4215759/236684506-b55b27fb-9b54-4a46-b
 Rookeyでの取り付けは以下のようになります。  
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6633.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+### 7. スイッチプレートの取り付け
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スイッチプレートを回路プレートに取り付けます。  
+スイッチプレートは画像の下側のプレートになります。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6639.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スイッチプレートの取り付けには、回路プレートとの接合部に使用していたスペーサーを使用します。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6645.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+回路プレートにスペーサーを4つ取り付けます。  
+スペーサーが回路プレートにハマらない場合は、ヤスリなどで削るなどしてサイズをあわせてください。
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6649.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スペーサーの上に回路プレートを載せます。仮止めですので、載っていれば問題ありません。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6650.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+スイッチプレートのスペーサー部分を同色のペンで塗ると、落ち着いた印象になります。  
+完成後でも作業可能です。
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6651.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+### 8. キースイッチの取り付け
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+キースイッチはCherry MX互換のものを取り付けます。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+キースイッチをスイッチプレートに刺します。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6656.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+取り付けづらい場合は、一度スイッチプレートのみの状態でキースイッチを挿し込むと作業がスムーズに進められます。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6655.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+全体を裏返して、スイッチプレートに取り付けたキースイッチの足が、回路プレートの穴を通って底面から出てくることを確認します。  
+もし、キースイッチの足が出ていない場合は、キースイッチを一度取り外して足が曲がっていないかを確認してください。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6659.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+回路プレートとキースイッチの足をハンダ付けします。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6660.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+### 9. ロータリーエンコーダの取り付け
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+Pro Microの手前のキースイッチ穴取付箇所に、ロータリーエンコーダを取り付けることが可能です。  
+ロータリーエンコーダではなく、通常のキースイッチを取り付けても構いません。お好みに併せてお選びください。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6665.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+[ロータリーエンコーダ](https://shop.yushakobo.jp/products/3762)はプッシュ入力に対応しております。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6666.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ロータリーエンコーダの足が回路プレートの穴と合致する向きを確認します。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6667.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ロータリーエンコーダをスイッチプレートに刺します。
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6668.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+全体を裏返して、ロータリーエンコーダの足が回路プレートの裏面から出ていることを確認します。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6669.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+ロータリーエンコーダの足と回路プレートをハンダで接続します。。  
+緑色の丸の箇所をハンダ付けします。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6671_b.jpg?raw=true" width = "600px" />
+
+### 10. 滑り止めシールの取り付け
+
+Rookeyの底面に滑り止めとしてゴム足シールや[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)などを取り付けます。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6672.jpg?raw=true" width = "600px" />
+
+打鍵スタイルや使用目的に応じて、滑り止めシールを取り付けます。以下は取り付け例です。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6673.jpg?raw=true" width = "600px" />
+
+### 11. キーキャップ、ロータリーエンコーダキャップの取り付け
+
+キーキャップやロータリーエンコーダのキャップを取り付けます。  
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6681.jpg?raw=true" width = "600px" />
+
+
+### 12. ファームウェアの書き込み
 
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
