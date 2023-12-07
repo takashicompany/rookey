@@ -126,7 +126,7 @@ Rookeyでの取り付けは以下のようになります。
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6650.jpg?raw=true" width = "600px" />
 
 スイッチプレートのスペーサー部分を同色のペンで塗ると、落ち着いた印象になります。  
-完成後でも作業可能です。
+完成後でも作業可能です。  
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6651.jpg?raw=true" width = "600px" />
 
 ### 8. キースイッチの取り付け
@@ -159,7 +159,7 @@ Pro Microの手前のキースイッチ穴取付箇所に、ロータリーエ�
 ロータリーエンコーダの足が回路プレートの穴と合致する向きを確認します。  
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6667.jpg?raw=true" width = "600px" />
 
-ロータリーエンコーダをスイッチプレートに刺します。
+ロータリーエンコーダをスイッチプレートに刺します。  
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6668.jpg?raw=true" width = "600px" />
 
 全体を裏返して、ロータリーエンコーダの足が回路プレートの裏面から出ていることを確認します。  
@@ -185,4 +185,26 @@ Rookeyの底面に滑り止めとしてゴム足シールや[ウレタンクッ�
 
 ### 12. ファームウェアの書き込み
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "600px" />
+[Remap](https://remap-keys.app/catalog/QSD7jKLB0Ax5J4y8wJ8s/firmware)にてファームウェアの書き込みを行います。  
+
+
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/933fc14a-2d65-425c-a00f-eb79a82bd547" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/20aba117-0d60-4539-b655-5dea8084d733" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/d6f071fb-7d2b-4449-9b6e-1283e31dd44e" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/ce1170f6-8766-49af-a0e7-9ee7ca0c43e6" width = "600px" />
+
+https://remap-keys.app/configure
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/a635e8ac-e815-4261-99cc-3e8d57467dde" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/7ac86720-3263-4d83-8efb-286ffaef6fa3" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/4d9cae0f-64ad-4d40-9e02-4224ae53e4d5" width = "600px" />
+
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/1b82239b-2322-4212-b655-943db4f30ca4" width = "600px" />
+
+
