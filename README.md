@@ -185,26 +185,45 @@ Rookeyの底面に滑り止めとしてゴム足シールや[ウレタンクッ�
 
 ### 12. ファームウェアの書き込み
 
-[Remap](https://remap-keys.app/catalog/QSD7jKLB0Ax5J4y8wJ8s/firmware)にてファームウェアの書き込みを行います。  
+[Remap](https://remap-keys.app/catalog/QSD7jKLB0Ax5J4y8wJ8s/firmware)にてWebブラウザからファームウェアの書き込みを行います。  
 
-
-
+ファームウェアを選んで、Flashをクリックします。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/933fc14a-2d65-425c-a00f-eb79a82bd547" width = "600px" />
 
+Bootloderが「Caterina」になっていることを確認してFlashをクリックします。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/20aba117-0d60-4539-b655-5dea8084d733" width = "600px" />
 
+[リセットスイッチを押して](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)、Pro Microが選択肢に出てくるかと思いますので、「接続」をクリックするとファームウェアの書き込みが開始されます。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/d6f071fb-7d2b-4449-9b6e-1283e31dd44e" width = "600px" />
 
+以下のような表示になれば、書き込み完了です。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/ce1170f6-8766-49af-a0e7-9ee7ca0c43e6" width = "600px" />
 
-https://remap-keys.app/configure
+### 13. キースイッチの動作確認
 
+[Remap](https://remap-keys.app/configure)でキースイッチが正しく動作するかを確認します。  
++Keyboardをクリックします。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/a635e8ac-e815-4261-99cc-3e8d57467dde" width = "600px" />
 
+上述のVIAファームウェアを書き込むと、Rookeyが選択肢に表示されますので選択して接続します。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/7ac86720-3263-4d83-8efb-286ffaef6fa3" width = "600px" />
 
+Rookeyの設定画面が表示されます。右下の三点リーダーをクリックするとメニューが表示されますので、「Test Matrix mode」をクリックします。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/4d9cae0f-64ad-4d40-9e02-4224ae53e4d5" width = "600px" />
 
+「Test Matrixｌでは入力したキーが着彩されますので、全てのキーが動作(着彩)されるかを確認します。  
 <img src = "https://github.com/takashicompany/rookey/assets/4215759/1b82239b-2322-4212-b655-943db4f30ca4" width = "600px" />
 
+もし入力されないキーがありましたら、キースイッチのハンダ付けに不備がないか、Pro Microのコンスルーのハンダ付けや差し込みを確認してください。
+
+### 14. 完成した後の楽しみ方
+
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
+Twitterのハッシュタグは [`#Rookey #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23Rookey&src=typed_query) を付けていただけると幸いです。
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければ回答できるかと思います。
 
