@@ -1,5 +1,12 @@
 # Rookey
 
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "600px" />
+
+Rookeyは9キーのマクロパッドです。  
+1枚のPCBから回路プレート、スイッチプレート、スペーサーを切り出して組み立てます。  
+シンプルで組み立てやすく入門用の一台としてはもちろん、小型のマクロパッドとして永く使い続けることが可能です。  
+ロータリーエンコーダを取り付けることも可能ですので、使用スタイルにあわせた組み立てが可能です。
+
 ## 組み立て方
 
 ### 1. 基板の左右と表裏を確認する
@@ -178,4 +185,4 @@ Rookeyの底面に滑り止めとしてゴム足シールや[ウレタンクッ�
 
 ### 12. ファームウェアの書き込み
 
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "600px" />
