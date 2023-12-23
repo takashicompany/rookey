@@ -94,7 +94,7 @@ Rookeyは9キーのマクロパッドです。
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6635.jpg?raw=true" width = "600px" />
 
 タクトスイッチを取り付けなくても、ピンセットなどでリセットスイッチのハンダ付け穴を導通させることで、リセットスイッチを押したことと同じ挙動となります。  
-<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_ .jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6634.jpg?raw=true" width = "600px" />
 
 Rookeyでのリセットスイッチの取り付けはお好みで構いません。
 
