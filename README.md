@@ -3,7 +3,7 @@
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01480_2.jpg?raw=true" width = "600px" />
 
 
-Rookeyは9キーのマクロパッドです。  
+Rookey(ルーキー)は9キーのマクロパッドです。  
 1枚のPCBから回路プレート、スイッチプレート、スペーサーを切り出して組み立てます。  
 シンプルで組み立てやすく入門用の一台としてはもちろん、小型のマクロパッドとして永く使い続けられる一品です。
 リバーシブル基板ですので、利き腕や使用シーンにあわせた使い方を実現できます。
