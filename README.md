@@ -1,6 +1,9 @@
 # Rookey
 
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01480_2.jpg?raw=true" width = "600px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01468.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/rookey/blob/master/images/02.jpg?raw=true" width = "600px" />
 
 Rookeyは9キーのマクロパッドです。  
 1枚のPCBから回路プレート、スイッチプレート、スペーサーを切り出して組み立てます。  
