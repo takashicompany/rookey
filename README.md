@@ -13,6 +13,7 @@ Rookeyは9キーのマクロパッドです。
 |:--|:--|:--|
 |Rookey PCB|1|1枚で回路プレート・スイッチプレート・スペーサーになります。|
 |[Pro Micro](https://shop.yushakobo.jp/products/21)|1||
+|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|無くてもピンセットなどで代用可能。詳細は後述。|
 |[コンスルー](https://shop.yushakobo.jp/products/31)|2|ピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。**|
 |[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9||
 |[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9||
