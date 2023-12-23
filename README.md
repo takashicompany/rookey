@@ -10,11 +10,13 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 リバーシブル基板ですので、利き腕や使用シーンにあわせた使い方を実現しています。  
 オプションでロータリーエンコーダを取り付けることも可能です。  
 
-[![Youtube](http://img.youtube.com/vi/L61mhWEmTEg/0.jpg)](https://www.youtube.com/watch?v=L61mhWEmTEg)
-
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "400px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01468.jpg?raw=true" width = "400px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/02.jpg?raw=true" width = "400px" />
+
+## YouTube
+[Daihuku Keyboard 「【簡単＆安い】自作キーボード作ってみた Rookey編 | Rookey : Macropad Review」](https://www.youtube.com/watch?v=L61mhWEmTEg)
+[![Youtube](http://img.youtube.com/vi/L61mhWEmTEg/0.jpg)](https://www.youtube.com/watch?v=L61mhWEmTEg)
 
 ## 組み立てに必要な部品
 
