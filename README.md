@@ -19,16 +19,17 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 [![Youtube](http://img.youtube.com/vi/L61mhWEmTEg/0.jpg)](https://www.youtube.com/watch?v=L61mhWEmTEg)
 
 ## 組み立てに必要な部品
+![image](https://github.com/takashicompany/rookey/assets/4215759/1fe9f782-f64b-4291-b03c-e1532b05013b)
 
-|部品|個数|備考|
-|:--|:--|:--|
-|Rookey PCB|1|1枚で回路プレート・スイッチプレート・スペーサーになります。|
-|[Pro Micro](https://shop.yushakobo.jp/products/21)|1||
-|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|無くてもピンセットなどで代用可能。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
-|[コンスルー](https://shop.yushakobo.jp/products/31)|2|ピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。**|
-|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9||
-|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9||
-|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|100均ショップなどで購入したものでも代用可。|
+|画像|部品名|個数|備考|
+|:--|:--|:--|:--|
+|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6617.jpg?raw=true" width = "200px" />|Rookey PCB|1|1枚で回路プレート・スイッチプレート・スペーサーになります。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/1fe9f782-f64b-4291-b03c-e1532b05013b" width = "200px" />|[Pro Micro](https://shop.yushakobo.jp/products/21)|1||
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6635.jpg?raw=true" width = "200px" />|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|無くてもピンセットなどで代用可能。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/131d8bc9-4716-4d8d-8934-5a90197babb9" width = "200px" />|[コンスルー](https://shop.yushakobo.jp/products/31)|2|ピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。**|
+|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "200px" />|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9||
+||[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9||
+||[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|100均ショップなどで購入したものでも代用可。|
 
 ## オプションパーツ
 
