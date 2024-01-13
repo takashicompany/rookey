@@ -17,14 +17,17 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 ## 入手する前に当ビルドガイドをご一読ください。
 
 入手する前・組み立てる前にこのビルドガイドの全てを一読ください。  
-読む際に頭の中で実際の作業工程をイメージしながら組み立てると、実際の作業の際に
-
+頭の中で実際の作業工程をイメージして読み進めると、実際の作業の際に滞ることが少なくなります。  
+不明点などがありましたら、XやBoothのメッセージ等にてお気軽にご質問ください。  
+また、後述のYoutube動画もご覧になられると、より確実に組み立てることができます。  
 
 ## YouTube
 [Daihuku Keyboard 「【簡単＆安い】自作キーボード作ってみた Rookey編 | Rookey : Macropad Review」](https://www.youtube.com/watch?v=L61mhWEmTEg)
 [![Youtube](http://img.youtube.com/vi/L61mhWEmTEg/0.jpg)](https://www.youtube.com/watch?v=L61mhWEmTEg)
 
 ## 組み立てに必要な部品
+
+キットに含まれていないものはご自身でご用意ください。
 
 |画像|部品名|個数|備考|
 |:--|:--|:--|:--|
@@ -35,16 +38,12 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 |<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "400px" />|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9|キーの動作部品です。キーの押下を電気信号でPro Microに伝えます。ホットスワップに非対応ですので、一度ハンダ付けすると取り外しの際にはハンダ吸い取り線などを用いる必要があります。|
 |<img src = "https://github.com/takashicompany/rookey/assets/4215759/54fb3733-e7ac-41b1-814a-2b16168d4312" width = "400px" />|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9|指がキーに触れる部品です。全てのキーが1u(1マス)サイズです。|
 |<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6672.jpg?raw=true" width = "400px" />|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|底面に貼り付けることでキーを押した時に滑らなくなります。100均ショップなどで購入したものでも代用可能です。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6666.jpg?raw=true" width = "400px" /> |[ロータリーエンコーダ](https://shop.yushakobo.jp/collections/all-keyboard-parts/Encorder)|1|ノブを指で回すことでの入力が可能です。スクロール操作などに適しています。Pro Microの手前側のキースイッチをロータリーエンコーダに変更することが可能です。**不要な方は用意する必要はありません。**|
 
-
-
-## オプションパーツ
-
-|部品|個数|備考|
-|:--|:--|:--|
-|[ロータリーエンコーダ](https://shop.yushakobo.jp/collections/all-keyboard-parts/Encorder)|1|Pro Microの手前側のキースイッチをロータリーエンコーダに変更可能です。|
 
 ## 組み立てに必要な道具
+
+何を用意してよいか分からない方は、[こちら](https://shop.yushakobo.jp/products/a9900to)を購入するのが確実です。
 
 |道具|備考|
 |:--|:--|
