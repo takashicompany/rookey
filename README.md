@@ -14,6 +14,12 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01468.jpg?raw=true" width = "400px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/02.jpg?raw=true" width = "400px" />
 
+## 入手する前に当ビルドガイドをご一読ください。
+
+入手する前・組み立てる前にこのビルドガイドの全てを一読ください。  
+読む際に頭の中で実際の作業工程をイメージしながら組み立てると、実際の作業の際に
+
+
 ## YouTube
 [Daihuku Keyboard 「【簡単＆安い】自作キーボード作ってみた Rookey編 | Rookey : Macropad Review」](https://www.youtube.com/watch?v=L61mhWEmTEg)
 [![Youtube](http://img.youtube.com/vi/L61mhWEmTEg/0.jpg)](https://www.youtube.com/watch?v=L61mhWEmTEg)
@@ -23,12 +29,12 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 |画像|部品名|個数|備考|
 |:--|:--|:--|:--|
 |<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6617.jpg?raw=true" width = "400px" />|Rookey PCB|1|1枚で回路プレート・スイッチプレート・スペーサーになります。|
-|<img src = "https://github.com/takashicompany/rookey/assets/4215759/1fe9f782-f64b-4291-b03c-e1532b05013b" width = "400px" />|[Pro Micro](https://shop.yushakobo.jp/products/21)|1||
-|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6635.jpg?raw=true" width = "400px" />|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|無くてもピンセットなどで代用可能。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
-|<img src = "https://github.com/takashicompany/rookey/assets/4215759/131d8bc9-4716-4d8d-8934-5a90197babb9" width = "400px" />|[コンスルー](https://shop.yushakobo.jp/products/31)|2|ピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。** コンスルーについての詳細な説明は[こちら](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)をご一読ください。併せて[取り付け方の説明](https://yushakobo.zendesk.com/hc/ja/articles/360044233974-%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC-%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80-%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E6%96%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84)も目を通しておくと作業がスムーズに進められます。|
-|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "400px" />|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9||
-|<img src = "https://github.com/takashicompany/rookey/assets/4215759/54fb3733-e7ac-41b1-814a-2b16168d4312" width = "400px" />|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9||
-|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6672.jpg?raw=true" width = "400px" />|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|100均ショップなどで購入したものでも代用可。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/1fe9f782-f64b-4291-b03c-e1532b05013b" width = "400px" />|[Pro Micro](https://shop.yushakobo.jp/products/21)|1|キーボードの頭脳部分を司る部品です。どれを買っていいか分からない場合は[コンスルー付きのセット](https://shop.yushakobo.jp/products/21)の購入を推奨します。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6635.jpg?raw=true" width = "400px" />|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|キーボードにファームウェアを書き込む際に利用するスイッチです。取り付けなくともピンセットを用いることでファームウェアを書き込めます。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/131d8bc9-4716-4d8d-8934-5a90197babb9" width = "400px" />|[コンスルー](https://shop.yushakobo.jp/products/31)|2|回路プレートとPro Microを接続する端子です。Pro Microに付属するピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。** コンスルーについての詳細な説明は[こちら](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)をご一読ください。併せて[取り付け方の説明](https://yushakobo.zendesk.com/hc/ja/articles/360044233974-%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC-%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80-%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E6%96%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84)も目を通しておくと作業がスムーズに進められます。|
+|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "400px" />|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9|キーの動作部品です。キーの押下を電気信号でPro Microに伝えます。ホットスワップに非対応ですので、一度ハンダ付けすると取り外しの際にはハンダ吸い取り線などを用いる必要があります。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/54fb3733-e7ac-41b1-814a-2b16168d4312" width = "400px" />|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9|指がキーに触れる部品です。全てのキーが1u(1マス)サイズです。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6672.jpg?raw=true" width = "400px" />|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|底面に貼り付けることでキーを押した時に滑らなくなります。100均ショップなどで購入したものでも代用可能です。|
 
 
 
