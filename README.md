@@ -13,6 +13,14 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/01.jpg?raw=true" width = "400px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/daihuku/DSC01468.jpg?raw=true" width = "400px" />
 <img src = "https://github.com/takashicompany/rookey/blob/master/images/02.jpg?raw=true" width = "400px" />
+<img src = "https://github.com/takashicompany/rookey/assets/4215759/54fb3733-e7ac-41b1-814a-2b16168d4312" width = "400px" />
+
+## 入手する前に当ビルドガイドをご一読ください。
+
+入手する前・組み立てる前にこのビルドガイドの全てを一読ください。  
+頭の中で実際の作業工程をイメージして読み進めると、実際の作業の際に滞ることが少なくなります。  
+不明点などがありましたら、XやBoothのメッセージ等にてお気軽にご質問ください。  
+また、後述のYoutube動画もご覧になられると、より確実に組み立てることができます。  
 
 ## YouTube
 [Daihuku Keyboard 「【簡単＆安い】自作キーボード作ってみた Rookey編 | Rookey : Macropad Review」](https://www.youtube.com/watch?v=L61mhWEmTEg)
@@ -20,23 +28,29 @@ Rookey(ルーキー)は9キーのマクロパッドです。
 
 ## 組み立てに必要な部品
 
-|部品|個数|備考|
-|:--|:--|:--|
-|Rookey PCB|1|1枚で回路プレート・スイッチプレート・スペーサーになります。|
-|[Pro Micro](https://shop.yushakobo.jp/products/21)|1||
-|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|無くてもピンセットなどで代用可能。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
-|[コンスルー](https://shop.yushakobo.jp/products/31)|2|ピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。**|
-|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9||
-|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9||
-|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|100均ショップなどで購入したものでも代用可。|
+キットに含まれていないものはご自身でご用意ください。  
 
-## オプションパーツ
+以下は必須の項目の説明です。
+|記号|説明|
+|:--|:--|
+|◯|無いと動作しません。キットに含まれていないものはご自身でご用意ください。|
+|△|無くても動作させられますが、用意すると組み立てさやメンテナンス性が向上します。初心者の方はご用意頂くのが確実です。|
+|?|使用スタイルに併せて、選択可能です。|
 
-|部品|個数|備考|
-|:--|:--|:--|
-|[ロータリーエンコーダ](https://shop.yushakobo.jp/collections/all-keyboard-parts/Encorder)|1|Pro Microの手前側のキースイッチをロータリーエンコーダに変更可能です。|
+|画像|部品名|個数|必須|備考|
+|:--|:--|:--|:--|:--|
+|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6617.jpg?raw=true" width = "1200px" />|Rookey PCB|1|◯|1枚で回路プレート・スイッチプレート・スペーサーになります。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/1fe9f782-f64b-4291-b03c-e1532b05013b" width = "1200px" />|[Pro Micro](https://shop.yushakobo.jp/products/21)|1|◯|キーボードの頭脳部分を司る部品です。ピン数は2列12穴です。どれを買っていいか分からない場合は[コンスルー付きのセット](https://shop.yushakobo.jp/products/21)の購入を推奨します。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6635.jpg?raw=true" width = "1200px" />|[タクトスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1|△|キーボードにファームウェアを書き込む際に利用するスイッチです。取り付けなくともピンセットを用いることでファームウェアを書き込めます。詳細は[こちら](https://github.com/takashicompany/rookey/blob/master/README.md#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/131d8bc9-4716-4d8d-8934-5a90197babb9" width = "1200px" />|[コンスルー](https://shop.yushakobo.jp/products/31)|2|◯|回路プレートとPro Microを接続する端子です。Pro Microに付属するピンヘッダでの取り付けも可能ですが、作業ミスや故障した際の取り替えが容易になりますので、**コンスルーの使用を強く推奨します。ピンヘッダでの取り付けは当キーボードと当ビルドガイドではサポートしません。** コンスルーの必要な高さはPro Microによって異なりますので、販売元にご確認ください。コンスルーについての詳細な説明は[こちら](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)をご一読ください。併せて[取り付け方の説明](https://yushakobo.zendesk.com/hc/ja/articles/360044233974-%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC-%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80-%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E6%96%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84)も目を通しておくと作業がスムーズに進められます。|
+|<img src = "https://github.com/takashicompany/rookey/blob/master/images/build/IMG_6653.jpg?raw=true" width = "1200px" />|[MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|9|◯|キーの動作部品です。キーの押下を電気信号でPro Microに伝えます。ホットスワップに非対応ですので、一度ハンダ付けすると取り外しの際にはハンダ吸い取り線などを用いる必要があります。|
+|<img src = "https://github.com/takashicompany/rookey/assets/4215759/eafcac57-31fe-4c3a-829c-3cbf697e00ff" width = "1200px" />|[MX互換キーキャップ](https://shop.yushakobo.jp/collections/keycaps)|9|◯|指がキーに触れる部品です。全てのキーが1u(1マス)サイズです。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6672.jpg?raw=true" width = "1200px" />|[ウレタンクッション](https://shop.yushakobo.jp/products/a0800ur-01-6)|4|△|底面に貼り付けることでキーを押した時に滑らなくなります。100均ショップなどで購入したものでも代用可能です。|
+|<img src = "https://github.com/takashicompany/rookey/raw/master/images/build/IMG_6666.jpg?raw=true" width = "1200px" /> |[ロータリーエンコーダ](https://shop.yushakobo.jp/collections/all-keyboard-parts/Encorder)|1|?|ノブを指で回すことでの入力が可能です。スクロール操作などに適しています。Pro Microの手前側のキースイッチをロータリーエンコーダに変更することが可能です。**不要な方は用意する必要はありません。**|
 
 ## 組み立てに必要な道具
+
+何を用意してよいか分からない方は、[こちら](https://shop.yushakobo.jp/products/a9900to)を購入するのが確実です。
 
 |道具|備考|
 |:--|:--|
